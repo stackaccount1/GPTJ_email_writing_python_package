@@ -1,4 +1,4 @@
-#AI Email Writer Program
+# AI Email Writer Program
 
 #### Brief Overview
 Email writing with GPTJ
