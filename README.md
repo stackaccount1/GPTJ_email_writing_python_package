@@ -1,5 +1,4 @@
-# AI Email Writer Program
-
+# GPTJ Custom Email Writer Python Package
 #### Brief Overview
 Email writing with GPTJ
 
